@@ -1,0 +1,43 @@
+.container {
+    margin: 50px 0;
+}
+
+.card {
+    margin: 2% 2% !important;
+    width: 26rem;
+    background-color: rgb(29, 30, 41) !important;
+    color: #fff !important;
+
+}
+
+.infected {
+    border-bottom: 5px solid rgb(52, 99, 252);
+}
+
+.recovered {
+    border-bottom: 5px solid rgb(44, 255, 107);
+}
+
+.deaths {
+    border-bottom: 5px solid rgb(209, 0, 0);
+}
+
+.inf {
+    color: rgb(52, 99, 252);
+}
+
+.rec {
+    color: rgb(44, 255, 107);
+}
+
+.dea {
+    color: rgb(209, 0, 0);
+}
+
+
+@media only screen and (max-width: 770px) {
+    .card {
+      width: 60% !important;
+      font-size: 16px;
+    }
+  }

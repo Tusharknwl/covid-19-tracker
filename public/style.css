@@ -1,0 +1,24 @@
+.heading {
+    color: rgb(108, 189, 155);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3.5rem;
+    margin-bottom: 0;
+}
+
+.heading img {
+      width: 72px;
+      margin-bottom: -1%;
+    }
+
+ @media only screen and (max-width: 770px) {
+    .heading {
+      font-size: 2rem;
+      margin-bottom: -30px;
+    }
+
+    .heading img {
+      width: 10%;
+      margin-bottom: -2%;
+    }
+  }
