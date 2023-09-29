@@ -12,7 +12,6 @@
   <p align="center">
     React dashboard that visualizes real-time global COVID-19 data in graphical form.
     <br />
-    ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
@@ -26,24 +25,11 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+      <a href="#about-the-project">About The Project</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#installation">Installation</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -52,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<image src="public/images/covid19.png" alt="covid-19-tracker" width="100%">
+<img src="public/images/covid19.png" alt="covid-19-tracker" width="100%">
 
 This project is a React dashboard that visualizes real-time global COVID-19 data in graphical form. It uses the public API to fetch the data. The dashboard is built using reactjs, material-ui, chartjs. The dashboard is responsive and can be viewed on any device.
 
